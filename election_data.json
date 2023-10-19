@@ -1,0 +1,23 @@
+{
+    
+    "nom de l'éléction" : "",
+    
+    
+    "questions" : [
+
+            {   
+                "question" : "A, B ou C",
+
+                "réponses" : {
+
+                    "1" : "A",
+                    "2" : "B",
+                    "3" : "C"
+                }
+
+            }
+
+    ]
+
+
+}

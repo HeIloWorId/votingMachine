@@ -1,0 +1,1 @@
+ELECTION_PARAMETERS = "election_parameters.json"

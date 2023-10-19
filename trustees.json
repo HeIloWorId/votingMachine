@@ -1,0 +1,28 @@
+{
+    "utilisateurs de confiance" : [
+
+            {   
+                "prenom" : "évariste",
+
+                "nom" : "Galois",
+
+                "email" : "evariste.galois@polytechnique.fr"
+
+
+            },
+
+            {   
+                "prenom" : "emmanuel",
+
+                "nom" : "Macron",
+
+                "email" : "amine.bouzid@utt.fr"
+
+
+            }
+
+
+    ]
+
+
+}
